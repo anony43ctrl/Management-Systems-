@@ -1,4 +1,4 @@
-# Management Systems Repository
+# Management Systems 
 Welcome to the Management Systems Repository! This repository contains multiple management system projects built in C++ to demonstrate file handling, data structures, and user interaction in a command-line interface. Each project is self-contained, user-friendly, and designed to solve real-world management tasks effectively.
 
 **About the Repository**
